@@ -1,2 +1,4 @@
 <?php
- echo 1+5;
+ echo "Hola Mundo";
+ var_dump("hola");
+ exit();
